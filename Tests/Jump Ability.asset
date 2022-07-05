@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c7494b35d9130342a37fc2789c30011, type: 3}
+  m_Name: Jump Ability
+  m_EditorClassIdentifier: 
+  AbilityName: Jump
+  AbilityBaseCoolDown: 0
+  InputBufferDuration: 0
+  EnergyCost: 0
+  CoolDownTimeLeft: 0
+  NeedUpdate: 1
+  NeedFixedUpdate: 0
+  RunUpdateAnyway: 0
+  InitializeAfterAcquire: 1
+  NeedAllAllowedTags: 0
+  AbilitySoundClip: {fileID: 0}
+  Initialized: 1
+  AbilityIsRunning: 0
+  AbilityIsAllowed: 0
+  AbilityGameplayTag: 3
+  BlockedByAbilities: 
+  AllowedByAbilities: 
+  FinishAbilitiesOnStart: 
+  FinishAbilitiesOnEnd: 
+  _jumpForce: 10

@@ -1,0 +1,18 @@
+{
+    "name": "halluvision.abilitysystem",
+    "rootNamespace": "Halluvision.AbilitySystem",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:2d7d0b50d02ee7f41929e90945f775dd",
+        "GUID:2aa27d3d37d605646a7e70d0c8de22d9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
